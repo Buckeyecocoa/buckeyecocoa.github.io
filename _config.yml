@@ -54,3 +54,5 @@ exclude:
   - s3_website.yml
   - .env
   - Rakefile
+  - CNAME
+
