@@ -8,6 +8,7 @@ title: About {{ site.name }}
 Buckeye Cocoa is a group of people from the Central Ohio area who are interested in Mac and/or iOS/Watch/TV programming.
 
 We meet 3 times a month:
+
 * First Tuesday of the Month 
   * `NSCoder` - Bring your laptop and hack code with us! 
 * Second Tuesday of the Month
