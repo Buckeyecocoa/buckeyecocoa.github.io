@@ -17,9 +17,11 @@ For the protection of both attendees and our organization, Buckeye Cocoa will ne
 
 Incident Resolution
 
-Attendees should follow Bill and Ted’s advice: “Be excellent to each other.” Treat other attendees with respect, regardless of whether you are in a session room or at one of the Kalahari’s facilities.
+Attendees should follow Bill and Ted’s advice: “Be excellent to each other.” Treat other attendees with respect, regardless of whether you are in a meeting or social event.
+
 Simple disagreements should be resolved between the individuals concerned.
 Harassment or more serious issues should be escalated to a Buckeye Cocoa organizing member. That staff member will immediately contact other Buckeye Cocoa organizing members who have the responsibility to assist in resolution.
+
 Attendees suffering outright assault or extreme harassment should contact the on-site staff immediately, or a Buckeye Cocoa organizing member if they’re nearby. Buckeye Cocoa organizers will immediately escalate to law enforcement as appropriate.
 
 This document is based on the [CodeMash Code of Conduct](http://www.codemash.org/codemash-code-conduct/) and unofficially used as a template for our Conduct document.
