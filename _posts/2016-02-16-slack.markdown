@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "We've got Slack for you Slackers"
+date:   2016-02-16 08:00:00
+categories: main
+---
+
+As a reminder (or maybe this is new to you) we have our own Slack Team for communication:
+
+* \#General
+  * for Development talk
+* \#Jobs
+  * Hiring? Heard of a new job? Post it
+* \#Random
+  * For everything else
+
+The [Buckeye Cocoa Slack Team](https://buckeyecocoa.slack.com/) is by invite-only. If you would like to join [contact us](/contact/).
+
+
+
